@@ -1,0 +1,9 @@
+streamlit
+langchain
+transformers
+torch
+sentence-transformers
+faiss-cpu
+pypdf
+langchain_community==0.1.5
+langchain==0.0.9
